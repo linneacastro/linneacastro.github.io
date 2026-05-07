@@ -6,7 +6,7 @@ function App() {
       <h1>Linnea Castro</h1>
       <p className="role">Site Reliability Engineer</p>
       <p className="tagline">
-        Engineering reliability into systems and life. Currently exploring AI tooling.
+        Engineering reliability into systems, AI workflows, and life.
       </p>
     </main>
   )
