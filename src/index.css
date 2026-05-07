@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  --font-sans: "Work Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --color-cream: #faf8f5;
+  --color-bark: #3d2c1e;
+  --color-walnut: #6b5544;
+  --color-stone-warm: #5a4a3a;
+}
